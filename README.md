@@ -26,6 +26,7 @@ cam101-week6-clustering-project/
 │   └── dimensionality_reduction.py
 ├── assets/
 │   └── [visuals generated from notebook]
+└── Report.pdf
 ```
 
 ---
